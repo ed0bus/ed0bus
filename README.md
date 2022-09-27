@@ -1,4 +1,4 @@
-                                                    ### Welcome  to my profile 👋
+### Welcome  to my profile 👋
                                                     
                                                     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&pause=1000&color=F2A900&center=true&vCenter=true&width=435&lines=Willing+to+learn;Ready+to+strive)](https://git.io/typing-svg)
