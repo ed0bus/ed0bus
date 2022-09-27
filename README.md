@@ -1,10 +1,17 @@
-## Edoardo B. 👋
+## Edoardo B. 
+
 ---                                                    
                                                     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&pause=1000&color=F2A900&center=true&vCenter=true&width=1200&lines=Willing+to+learn;Ready+to+strive)](https://git.io/typing-svg)
+
 ---
 
+
+
 **`I'm a linguist on my way to become a blockchain developer`**
+
+
+
 
 ### Languages and tools I'm learning
 
