@@ -1,5 +1,9 @@
 ### Welcome  to my profile 👋
 
+**`I'm a linguist on my way to become a blockchain developer`**
+
+
+
 <!--
 **ed0bus/ed0bus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
