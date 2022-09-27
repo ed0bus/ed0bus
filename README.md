@@ -6,7 +6,7 @@
 
 **`I'm a linguist on my way to become a blockchain developer`**
 
-###Languages and tools I'm learning
+### Languages and tools I'm learning
 
 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
