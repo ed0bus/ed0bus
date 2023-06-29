@@ -1,7 +1,5 @@
 ## Edoardo B. 
 
-**`I'm a linguist on my way to become a blockchain developer`**
-
 
 
 
